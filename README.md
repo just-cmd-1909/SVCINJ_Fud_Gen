@@ -1,6 +1,6 @@
 # SVCINJ 🚀
 
-**SVCINJ** is a powerful closed-source tool developed in C# by **ABOLHB** 🛠️. This tool enables users to bundle selected programs, making them self-inject into **svchost** so they appear at the top of the process manager.
+**SVCINJ** is a powerful closed-source tool developed in C# by **ABOLHB** 🛠️. This tool enables users to bundle selected programs, making them self-inject into **svchost** so they appear at the top of the process manager. The program's path is completely hidden for added stealth.
 
 ---
 
