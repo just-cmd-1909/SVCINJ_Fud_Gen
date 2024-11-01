@@ -31,4 +31,4 @@ The tool is designed with a **pink and black** theme, adding a unique style to i
 
 ---
 
-Developed by **ABOLHB** & **XCoder** Connect on Instagram: [g7m9](https://instagram.com/g7m9) 📱
+Developed by **ABOLHB** & **WizNon** Connect on Instagram: [g7m9](https://instagram.com/g7m9) 📱
