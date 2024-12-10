@@ -1,11 +1,8 @@
-﻿using System;
-using System.Windows.Forms;
+Imports System.Windows.Forms
 
-class Program
-{
-    static void Main()
-    {
-        MessageBox.Show("Gangsta freemasonry made me do it", "SVCINJ");
-        Environment.Exit(0);
-    }
-}
+Module Program
+    Sub Main()
+        MessageBox.Show("Gangsta freemasonry made me do it", "SVCINJ")
+        Environment.Exit(0)
+    End Sub
+End Module
